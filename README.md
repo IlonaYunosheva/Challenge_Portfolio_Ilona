@@ -5,5 +5,5 @@
 
 # TASK 2: selectors.
 ## remaind_password_hyperlink_xpath
-- ### _//*[@id="__next"]/form/div/div[1]/a_
-- 
+- ### //*[@id="__next"]/form/div/div[1]/a
+- //*[text()="Remind password"]
