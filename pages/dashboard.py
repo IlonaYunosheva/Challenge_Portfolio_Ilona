@@ -13,3 +13,4 @@ class Dashboard(BasePage):
     view_columns_button_xpath = "//*[@id="__next"]/div[1]/main/div[2]/div/div/div[1]/div[2]/span[2]/button"
     filter_table_xpath = "//*[@id="__next"]/div[1]/main/div[2]/div/div/div[1]/div[2]/span[3]/button"
     next_page_button_xpath = "//*[@id="pagination-next"]"
+

@@ -10,6 +10,6 @@ class addingamatchform(BasePage):
    match_at_home_button_xpath "//*[@name="matchAtHome"]"
    match_out_home_button_xpath "//*[@id="__next"]/div[1]/main/div[2]/form/div[2]/div/div[6]/fieldset/div/label[2]/span[1]/span[1]/input"
    web_match_button_xpath "//*[@name="webMatch"]"
-   general_button_xpath "//*[@name="general"]"
    time_played_field_xpath "//*[@name="timePlayed"]"
+   general_button_xpath "//*[@name="general"]"
 
