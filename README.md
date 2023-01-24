@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 1: software configuration.
 ***
 ## Subtask 1: Why did I choose to participate in the Dare IT Challenge?
@@ -19,5 +20,5 @@
 - ### //*[@id="__next"]/form/div/div[2]/div/div
 ## Sing_in_button_xpath
 - ### //*[@id="__next"]/form/div/div[2]/button/span[1]
+- ### //*[@class="MuiButton-label"]
 - ### //*[text()="Sign in"]
-- ###  //*[@class="MuiButton-label"]
